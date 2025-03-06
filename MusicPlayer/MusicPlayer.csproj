@@ -62,11 +62,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="workingClass.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\..\..\..\Desktop\Uni\Semester 1\PROG\ST10440190_ICE2.zip" />
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>

@@ -29,7 +29,7 @@ namespace MusicPlayer
         .Title("What's your [blue]favorite Song[/]?")
         .PageSize(10)
         .AddChoices(new[] {
-            "[red]Be quite and drive[/]", "[red]Animal I've become[/]" , "[red]TV off[/]",
+            "Be quite and drive", "Animal I've become" , "TV off",
         }));
             if (songs == "Be quite and drive")
             {
@@ -43,7 +43,7 @@ namespace MusicPlayer
             {
                 musicPlayer("tvo.wav");
             }
-            Console.WriteLine("GIT test");
+        
         }
         //----------------------------------------------------------//
 
